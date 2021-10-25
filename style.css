@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.topbar{
+    background-color: dodgerblue;
+    color: white;
+    vertical-align: middle;
+}
+
+  section > nav {
+    background-color: dodgerblue;
+    color: white;
+    vertical-align: middle;
+    float: right;
+  }
+
+  nav >ul {
+    list-style-type: none;
+    color: white;
+    display: inline;
+  }
+
+  nav >ul >li >a {
+    list-style-type: none;
+    color: white;
+  }
